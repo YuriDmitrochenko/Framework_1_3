@@ -10,7 +10,7 @@ This work is distributed under a **CC BY-NC 4.0** (Creative Commons Attributionâ
 
 > Dmitrochenko, Y. (2026). *Receptors, Energetics, Cell-State Transition, and Oncogenesis* (Framework 1.3). Israel.
 
-*DOI: 10.5281/zenodo.________*
+*DOI: 10.5281/zenodo.21284267*
 
 ## Contact
 
